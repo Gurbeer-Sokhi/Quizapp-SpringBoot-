@@ -1,4 +1,4 @@
-package com.Gurbeer.quizapp;
+package com.Gurbeer.quizapp.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
